@@ -1,4 +1,5 @@
-[
+{
+    "products": [
     {
         "id": 1,
         "title": "Tshirts",
@@ -34,4 +35,5 @@
         "image": "https://fdn.gsmarena.com/imgroot/reviews/20/realme-7/lifestyle/-1200w5/gsmarena_012.jpg",
         "group": {"category": "Electronics", "id": 2}
     }
-]
+    ]
+}
