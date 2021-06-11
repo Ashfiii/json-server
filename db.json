@@ -2,38 +2,59 @@
     "products": [
     {
         "id": 1,
-        "title": "Tshirts",
+        "title": "Tshirts for Men",
         "price": 599,
-        "image": "https://www.mydesignation.com/wp-content/uploads/2019/03/shammi-tshirt-image-unisex-mydesignation-.jpg",
-        "group": {"category": "Clothing", "id": 1}
+        "image": "https://i.pinimg.com/originals/2f/bb/66/2fbb6650a2b6b07aee93909b1f248e24.png",
+        "group": {"category": "Fashion", "id": 1}
     },
     {
         "id": 2,
         "title": "Samsung M31",
         "price": 12999,
-        "image": "https://static.digit.in/default/db80c6f12355307b593c0af60ad5403adbd2ab06.jpeg?tr=1200",
-        "group": {"category": "Electronics", "id": 2}
+        "image": "https://images.samsung.com/is/image/samsung/pk-galaxy-m31-m315-sm-m315fzbvpak-frontblue-thumb-289354146",
+        "group": {"category": "Mobiles", "id": 2}
     },
     {
         "id": 3,
-        "title": "Food Combo",
-        "price": 499,
-        "image": "https://img.freepik.com/free-photo/assorted-indian-recipes-food-various_79295-7226.jpg?size=626&ext=jpg",
-        "group": {"category": "Food and Beverages", "id": 3}
+        "title": "Washing Machine",
+        "price": 9999,
+        "image": "https://lh3.googleusercontent.com/proxy/CSzAKE_3iduyC6SycQUzkuBEChlDKTa45MqoXhmaP1NC7s_fJX-mCVibY871yHI8Ppf-qzYcblFzp39UmUGnVKGBERqchE5HktO22LERKQ4RRH-JBPuX41oGdmDuN2FLORtfqC7rugidhUkzdh_T-e66",
+        "group": {"category": "Electronics", "id": 3}
     },
     {
         "id": 4,
-        "title": "Shirts",
+        "title": "Shirts for Men",
         "price": 799,
-        "image": "https://cf.fgroup.workers.dev/bf/resize?key=300x400/50013954283NAVY_default_super_zoom_image_a9c6c85c0140428fad72a24641fe8af6.jpg",
-        "group": {"category": "Clothing", "id": 1}
+        "image": "https://i.pinimg.com/originals/f3/0e/8b/f30e8b236fff35e4e71e4428d808324c.png",
+        "group": {"category": "Fashion", "id": 1}
     },
     {
         "id": 5,
         "title": "Realme 7",
         "price": 16999,
-        "image": "https://fdn.gsmarena.com/imgroot/reviews/20/realme-7/lifestyle/-1200w5/gsmarena_012.jpg",
-        "group": {"category": "Electronics", "id": 2}
+        "image": "http://freebiescloud.com/wp-content/uploads/2020/10/2-75.png",
+        "group": {"category": "Mobiles", "id": 2}
+    },
+    {
+        "id": 6,
+        "title": "Air Fryer",
+        "price": 49999,
+        "image": "https://freepikpsd.com/media/2019/10/air-fryer-png-Free-PNG-Images-Transparent.png",
+        "group": {"category": "Electronics", "id": 3}
+    },
+    {
+        "id": 7,
+        "title": "Men's Suit",
+        "price": 14999,
+        "image": "https://i.pinimg.com/originals/92/f4/a1/92f4a1a0c9e932810c6b749c3d4f3fb2.png",
+        "group": {"category": "Fashion", "id": 1}
+    },
+    {
+        "id": 8,
+        "title": "Headphones",
+        "price": 1999,
+        "image": "https://i.pinimg.com/originals/d7/a5/3a/d7a53a450f76f01840facc033bb0627f.png",
+        "group": {"category": "Electronics", "id": 3}
     }
     ]
 }
